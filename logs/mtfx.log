@@ -1,0 +1,71 @@
+2019-04-30 14:25:48 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-30 14:25:48 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\maven\mmtfx-mvn
+2019-04-30 14:25:48 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-30 14:25:48 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-30 14:25:48 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-30 14:25:49 INFO  Prop:150 - Properties file correctly read.
+2019-04-30 14:25:49 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-30 14:25:49 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-30 14:25:49 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-30 14:25:49 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-30 14:25:49 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-30 14:25:49 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-30 14:25:49 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-30 14:25:49 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-30 14:25:49 INFO  Prop:158 - NUMERO_SCHERMO=1
+2019-04-30 14:25:49 DEBUG FXMLSetupController:129 - initialize()
+2019-04-30 14:25:50 DEBUG FXMLVideoController:91 - initialize()
+2019-04-30 14:25:50 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-30 14:25:50 DEBUG FXMLAdminController:86 - initialize()
+2019-04-30 14:25:50 DEBUG FXMLVideoController:101 - postInitialize()
+2019-04-30 14:25:50 DEBUG FXMLSetupController:181 - postInitialize()
+2019-04-30 14:30:22 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-30 14:30:22 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\maven\mmtfx-mvn
+2019-04-30 14:30:22 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-30 14:30:22 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-30 14:30:22 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-30 14:30:22 INFO  Prop:150 - Properties file correctly read.
+2019-04-30 14:30:22 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-30 14:30:22 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-30 14:30:22 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-30 14:30:22 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-30 14:30:22 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-30 14:30:22 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-30 14:30:22 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-30 14:30:22 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-30 14:30:22 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-30 14:30:23 DEBUG FXMLSetupController:129 - initialize()
+2019-04-30 14:30:23 DEBUG FXMLVideoController:91 - initialize()
+2019-04-30 14:30:23 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-30 14:30:24 DEBUG FXMLAdminController:86 - initialize()
+2019-04-30 14:30:24 DEBUG FXMLVideoController:101 - postInitialize()
+2019-04-30 14:30:24 DEBUG FXMLSetupController:181 - postInitialize()
+2019-04-30 14:30:38 DEBUG FXMLSetupController:248 - lol
+2019-04-30 14:30:38 DEBUG FXMLSetupController:264 - lol:doesn't have rank file associated.
+2019-04-30 14:30:45 INFO  ServerLuigi:90 - Create Server Luigi
+2019-04-30 14:30:45 INFO  ServerLuigi:45 - running():Connected.
+2019-04-30 14:30:45 INFO  VideoProcessing:135 - Ready playing:READY
+2019-04-30 14:30:49 INFO  VideoProcessing:99 - Start playing...:
+2019-04-30 14:30:51 INFO  VideoProcessing:126 - Stopped
+2019-04-30 14:30:51 INFO  ServerLuigi:35 - ServerLuigi cancelled():Connecting cancelled.
+2019-04-30 14:34:57 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-30 14:34:57 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\maven\mmtfx-mvn
+2019-04-30 14:34:57 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-30 14:34:57 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-30 14:34:57 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-30 14:34:57 INFO  Prop:150 - Properties file correctly read.
+2019-04-30 14:34:57 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-30 14:34:57 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-30 14:34:57 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-30 14:34:57 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-30 14:34:57 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-30 14:34:57 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-30 14:34:57 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-30 14:34:57 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-30 14:34:57 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-30 14:34:58 DEBUG FXMLSetupController:129 - initialize()
+2019-04-30 14:34:58 DEBUG FXMLVideoController:91 - initialize()
+2019-04-30 14:34:58 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-30 14:34:58 DEBUG FXMLAdminController:86 - initialize()
+2019-04-30 14:34:59 DEBUG FXMLVideoController:101 - postInitialize()
+2019-04-30 14:34:59 DEBUG FXMLSetupController:181 - postInitialize()
